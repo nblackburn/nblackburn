@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/nblackburn/nblackburn/master/assets/logo.png" alt="Logo"/>
+    <img src="https://raw.githubusercontent.com/nblackburn/nblackburn/master/assets/logo.svg" width="96" height="96" alt="Logo"/>
 </p>
 
 ### Hey, i'm Nathaniel 👋
